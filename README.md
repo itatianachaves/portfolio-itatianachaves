@@ -1,3 +1,3 @@
-# Challenge ONE | Front End - Portfólio itatiana
+# Challenge ONE | Front End - Portfólio 
 
 
